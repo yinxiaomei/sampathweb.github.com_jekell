@@ -1,0 +1,3 @@
+markdown: rdiscount
+permalink: /blog/:title
+pygments: true
